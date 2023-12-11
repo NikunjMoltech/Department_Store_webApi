@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAL_DepartmentStore
-build_property.ProjectDir = C:\Users\nikunj\Projects\.net\training\DepartmentStore\DAL_DepartmentStore\
+build_property.ProjectDir = C:\Users\nikunj\Projects\.net\training\DepartmentStore_webApi\DAL_DepartmentStore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

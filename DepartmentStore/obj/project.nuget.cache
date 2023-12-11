@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0W9ADe5m5CKdBeMYPMq9QCLoGpkdLH+XCXcdrDng0v9m+0l6yBLsbSfGTaEjhvflvunLl/MNGmoG8hk3C7WOSQ==",
+  "dgSpecHash": "smPNQ9cFItadYeBIfiVZAbLf1ymOqKPLSIKcbHIvXII/nDE8nVlQEHgKHfZI4M/kbru3OhyiLbriIT3/2DuA5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikunj\\Projects\\.net\\training\\DepartmentStore\\DepartmentStore\\DepartmentStore.csproj",
+  "projectFilePath": "C:\\Users\\nikunj\\Projects\\.net\\training\\DepartmentStore_webApi\\DepartmentStore\\DepartmentStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikunj\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nikunj\\.nuget\\packages\\azure.identity\\1.8.0\\azure.identity.1.8.0.nupkg.sha512",
